@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic, cinematic wide shot of a high-end, dimly lit tailor's atelier. In the center, a wooden mannequin stands. An elderly tailor is meticulously pinning a bespoke charcoal suit jacket. However, the jacket is not being fitted to the mannequin; the fabric is being stretched and pinned in complex, jagged, irrational patterns to perfectly match the deep, random wrinkles and shadows of a heavy, crumpled backdrop of industrial canvas behind it. The mannequin is ignored; the 'fit' is obsessed with the background noise. Photorealistic, 8k, masterwork, no text, no diagrams.",
+  "model": "Flux Pro 1.1",
+  "concept": "Overfitting",
+  "metaphor": "A suit being tailored to the random wrinkles of a backdrop rather than the mannequin; the model captures the noise instead of the underlying signal.",
+  "publish_email": true
+}
